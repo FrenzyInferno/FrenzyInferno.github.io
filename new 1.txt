@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html>
 
 	<head>
@@ -19,8 +19,8 @@
 
 			<ul id="navi">
 			<li><a href="index.html">Home</a></li>
-			<li><a href="review.html">Review</a></li>
-			<li><a href="video.html">Video</a></li>
+			<li><a href="page.html">Page1</a></li>
+			<li><a href="page.html">Page2</a></li>
 			<li><a href="contact.html">Contact</a></li>
 			</ul>
 		</div>
@@ -68,8 +68,6 @@
 		<img	src="Image/social.png"	alt="">
 
 				<!--<script src="index.js"></script> -->
-				
-
 		
 	</body>
 
